@@ -1,4 +1,4 @@
-# Tugas Eksperimen 1
+# Tugas Eksperimen 2
 
 Course: Desain Analisis Algoritma
 
