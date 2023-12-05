@@ -1,0 +1,14 @@
+Hamiltonian Path BT: 0 -> 3 -> 2 -> 1 -> 4 -> 6 -> 8 -> 10 -> 7 -> 5 -> 11 -> 9 -> 14 -> 12 -> 13 -> 15
+Backtracking - Size: 16, Time: 0.002000 s, Memory: 0 bytes
+Hamiltonian Path DP: 0 -> 13 -> 15 -> 10 -> 11 -> 14 -> 12 -> 6 -> 9 -> 7 -> 5 -> 2 -> 4 -> 1 -> 8 -> 3
+DP - Size: 16, Time: 0.059000 s, Memory: 11407696 bytes
+
+Hamiltonian Path BT: 0 -> 4 -> 6 -> 1 -> 5 -> 2 -> 7 -> 3 -> 10 -> 9 -> 8 -> 11 -> 14 -> 13 -> 15 -> 12 -> 16 -> 17
+Backtracking - Size: 18, Time: 0.002000 s, Memory: 0 bytes
+Hamiltonian Path DP: 0 -> 16 -> 17 -> 8 -> 11 -> 15 -> 13 -> 14 -> 9 -> 12 -> 4 -> 7 -> 10 -> 3 -> 6 -> 1 -> 5 -> 2
+DP - Size: 18, Time: 0.230000 s, Memory: 50404456 bytes
+
+Hamiltonian Path BT: 0 -> 2 -> 3 -> 5 -> 1 -> 6 -> 7 -> 11 -> 4 -> 9 -> 12 -> 18 -> 13 -> 8 -> 14 -> 19 -> 15 -> 16 -> 10 -> 17
+Backtracking - Size: 20, Time: 0.003000 s, Memory: 0 bytes
+Hamiltonian Path DP: 0 -> 19 -> 15 -> 18 -> 13 -> 11 -> 17 -> 10 -> 16 -> 14 -> 9 -> 12 -> 7 -> 6 -> 5 -> 1 -> 8 -> 3 -> 2 -> 4
+DP - Size: 20, Time: 1.194000 s, Memory: 223760304 bytes
